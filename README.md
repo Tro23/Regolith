@@ -3,7 +3,7 @@
 
 ![Status: Stealth](https://img.shields.io/badge/Status-Stealth_R&D-black)
 ![License: Proprietary / NC](https://img.shields.io/badge/License-Proprietary_/_NC-red)
-![Architecture: FLOWRRA Holonic](https://img.shields.io/badge/Architecture-FLOWRRA-blue)
+![Architecture: DhaaRn](https://img.shields.io/badge/Architecture-DhaaRn-blue)
 
 > **"The death of the glass screen. The birth of programmable matter."**
 
